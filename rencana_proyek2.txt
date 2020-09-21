@@ -2,6 +2,7 @@ rencana pembangunan LLL
 
 -pembutan saluran
 -pembuatan jalan
+-membuat kirmir saluran
  - jalan utama
  - jalan per blok
 -pembangunan rumah
