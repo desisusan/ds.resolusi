@@ -6,3 +6,4 @@ rencana pembangunan LLL
  - jalan utama
  - jalan per blok
 -pembangunan rumah
+ -blok g2
